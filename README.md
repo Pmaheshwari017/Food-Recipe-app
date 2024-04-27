@@ -13,3 +13,9 @@
 3) React Navigation
 4) Expo CLI
 
+Direction to run the app:
+1. npm i
+2. npx expo start
+3. type a- for android
+4. type i- for IOS
+5. type r- for App reload
